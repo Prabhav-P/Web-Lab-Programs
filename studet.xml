@@ -1,0 +1,32 @@
+<?xml-stylesheet type="text/css" href="studet.css" ?>
+
+<students>
+<student>
+<std1usn>USN : 4VV15CS075</std1usn>
+<std1name>Name : Prabhav P Bharadwaj</std1name>
+<std1college>College : VVCE</std1college>
+<std1branch>Branch : Computer Science</std1branch>
+<std1year>Year : 2018-2019</std1year>
+<std1email>EmailID : prabhav.p.bharadwaj@gmail.com</std1email>
+</student>
+
+
+<student>
+<std1usn>USN : 4VV15CS085</std1usn>
+<std1name>Name : Rajkumar Jain</std1name>
+<std1college>College : VVCE</std1college>
+<std1branch>Branch : Computer Science</std1branch>
+<std1year>Year : 2018-2019</std1year>
+<std1email>EmailID : rkjmb123@gmail.com</std1email>
+</student>
+
+
+<student>
+<std1usn>USN : 4VV15CS000</std1usn>
+<std1name>Name : Unknown</std1name>
+<std1college>College : VVCE</std1college>
+<std1branch>Branch : Computer Science</std1branch>
+<std1year>Year : 2018-2019</std1year>
+<std1email>EmailID : mysterious@dummy.com</std1email>
+</student>
+</students>
